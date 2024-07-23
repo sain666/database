@@ -1,6 +1,6 @@
-# SQL Project
+## Project
 
-This repository contains my SQL project completed as part of a database system course.
+This project need to get the answer from database system by writing series of SQL query.
 
 ## Contents
 
