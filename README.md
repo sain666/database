@@ -10,5 +10,5 @@ This project need to get the answer from database system by writing series of SQ
 
 ## Score
 
-Code passed all the test and received 100/100.
+Code passed all the test and marked 100/100.
 
